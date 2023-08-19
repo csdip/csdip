@@ -1,4 +1,4 @@
-😎 Any freelance work? do reach, <a herf="dipwebsolution@gmail.com ">email;</a><br>💬 Ask me about anything, I am happy to help;
+😎 Any freelance work? do reach, <a href="dipwebsolution@gmail.com ">email;</a><br>💬 Ask me about anything, I am happy to help;
 
 
 ## 🌐 Socials:
