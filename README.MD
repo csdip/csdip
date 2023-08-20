@@ -4,7 +4,7 @@
 😎 Any freelance work? do reach, <a href="mailto:dipwebsolution@gmailcom">email;</a><br>💬 Ask me about anything, I am happy to help;
 
 
-## 🌐 Socials:
+## 👉 Follow Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Same#8876) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cs-dip-2a53aa184) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codinghub-) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cs_dip) 
 
 # 💻 Tech Stack:
@@ -26,7 +26,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=csdip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Support Me:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/DipangkarD) 
 
   
