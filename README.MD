@@ -3,8 +3,6 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWLPRDHgnkjypsoCM6LnagE2aLWYOalGNMwAzwditeVjWMcKKX5sN5ND7-nnT4Ty_KCGe2puZKhBSSMiDXUCH38podZqsU1ubj2QasbkuXG-Rq1fe7djqlDl8kxzEbwV6Aj1FPtgpCRn6oWfUaC8tOPJeA1zfz_kB05BSBbJE-BaLKM7B1zKFwX9Yy3A_/s1600/Group%202.png)</br></br>
 😎 Any freelance work? do reach, <a href="mailto:dipwebsolution@gmailcom">email;</a><br>💬 Ask me about anything, I am happy to help;
 
-[![fb](https://csdip.github.io/fbicon/)]
-
 
 ## 👉 Follow Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Same#8876) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cs-dip-2a53aa184) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codinghub-) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cs_dip) 
